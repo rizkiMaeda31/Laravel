@@ -7,6 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Fast Overview
+This project is using blade, react and mysql. make sure you know what to do when using this repository for your own project. This project itself is not completed but enough as project starter without weird layout, learn complex (backend / frontend) authentication or learn used API/database in it
+
+## Author Advice
+Well, this project is using blade and react for view laravel but it is better to not used it for big scale project. make sure you already have your own frontend not mixed frontend and backend like this project
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
